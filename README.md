@@ -9,4 +9,4 @@ Algo d eloq ue vas paoder encontrar es lo siguiente:
 1. Cálculo del interés compuesto
 2. Cálculo de combinatorias
 
-![](https://www.python.org/img/python-logo@2x.png)
+![](https://www.python.org/static/img/python-logo@2x.png)
